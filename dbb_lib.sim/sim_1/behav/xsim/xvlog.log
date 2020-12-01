@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/thejoey/Documents/dbb_lib/dbb_lib.srcs/sources_1/new/dbb_lib.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dbb_lib
+INFO: [VRFC 10-311] analyzing module Dec
+INFO: [VRFC 10-311] analyzing module Mux3
+INFO: [VRFC 10-311] analyzing module Muxb3
+INFO: [VRFC 10-311] analyzing module Mux6a
+INFO: [VRFC 10-2458] undeclared symbol sb, assumed default net type wire [/home/thejoey/Documents/dbb_lib/dbb_lib.srcs/sources_1/new/dbb_lib.v:68]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/thejoey/Documents/dbb_lib/dbb_lib.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
